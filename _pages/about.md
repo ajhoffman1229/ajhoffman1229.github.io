@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Computational Heterogeneous Catalysis to Save the Planet"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,43 +8,38 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+# My Background
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+My name is Alexander Hoffman. I'm a chemical engineer with expertise in computational heterogeneous catalysis, chemical kinetics, and machine learning. I earned my BS in Chemistry from the College of William and Mary in 2015, after which I worked at the EPA for a year. I realized that I wouldn't be able to make it far without a graduate degree, so I moved to sunny Gainesville, FL to attend the University of Florida. Initially, I intended only to get a MS in chemical engineering; however, I started doing research with [Prof. David Hibbitts](https://hibbitts.rc.ufl.edu/) and enjoyed it so much that I stayed for 4 more years than I had planned, earning my Ph.D. under his guidance in 2022. During my Ph.D., I worked on a variety of projects with many excellent experimental groups, namely the [Gounder group at Purdue University](https://sites.google.com/site/rgounder/), the [Schwartz group at University of Maine](https://thomasschwartz.wixsite.com/schwartzgroup), and the [Christopher group at UCSB](https://www.christophergroup.engineering.ucsb.edu/). After my Ph.D., I moved to Cambridge, MA to do postdoctoral research with [Prof. Rafa G&oacute;mez-Bombarelli](http://gomezbombarelli.mit.edu/). At MIT, I've been lucky to work with [Prof. Yuriy Rom&aacute;n-Leshkov's group](https://www.romangroup.mit.edu/) and Dr. Manuel Moliner at [ITQ in Valencia](https://itq.upv-csic.es/en) to study zeolite synthesis. The work 
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+When I'm not doing research, I enjoy cooking, playing sports---tennis, running, basketball, and swimming---watching classic film, reading literature and non-fiction, listening to music, and spending time with my wife, Becca, and dog, Bella.
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+# My Past Research 
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+I am always excited to discuss my work with others. Please feel free to email me about any of the papers if you cannot access them at the links below.
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+## University of Florida
 
-**Markdown generator**
+### Br&oslash;nsted Acid Zeolite Catalysts for Alcohol Dehydration
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+Much of my work during my Ph.D. focused on acid strength and alcohol dehydration chemistry in Br&oslash;nsted acid-form zeolites. I used purely theoretical metrics like deprotonation energy (DPE) and experimentally measurable values like ammonia binding energies to assess [how two nearby Br&oslash;nsted acid sites interact in CHA zeolites](http://pubs.acs.org/doi/10.1021/acscatal.8b02049) and [how sites on the surfaces of zeolites differ from those in the bulk in MFI](https://pubs.acs.org/doi/10.1021/acscatal.3c00076). I also studied [methanol and ethanol dehydration reactions on pairs of nearby Br&oslash;nsted acid sites](https://onlinelibrary.wiley.com/doi/10.1002/anie.202007790), where I found that nearby coadsorbed species can for hydrogen bonds with sites where reactions occur, and [studied the effects of molecular clustering on methanol dehydration on single sites in CHA](https://linkinghub.elsevier.com/retrieve/pii/S0021951719305111). These studies of methanol and ethanol dehydration were done in collaboration with Raj Gounder's group. I also worked with a master's student in the Hibbitts group, Tsung-wei Liu, and the Schwartz group to study [hydroxymethyl furfural and ethanol cross-etherification in BEA zeolites](https://pubs.acs.org/doi/10.1021/acscatal.0c01328). I was also momentarily preoccupied by [issues with the default structure of MFI from the IZA database and how it can misbehave during some calculations](http://pubs.acs.org/doi/10.1021/acs.jpcc.8b12230). This paper (my first first-author paper) taught me the importance of using the right models for calculations in VASP!
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+### Supported Rh Catalysts for Pollution Abatement
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+My second major project during my Ph.D. was on Rh catalysts for NO<sub>x</sub> reduction. I worked with the Christopher group at UCSB to characterize [Rh nanoparticles](https://pubs.acs.org/doi/10.1021/acs.jpcc.1c05160) and [single-atoms](https://pubs.acs.org/doi/10.1021/acscatal.2c02813) on &gamma;-Al<sub>2</sub>O<sub>3</sub> supports. Rh can be particularly frustrating to work with because it reversibly aggregates to nanoparticles and disperses to single-atoms on oxide supports; as such, the active sites for NO<sub>x</sub> reduction can change over the course of the reaction. These projects sparked my interest in single-atom metal catalysts and the promise they provide for maximizing precious metal use and tailoring the behavior of active sites. 
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+## MIT
+
+### Controlling Zeolite synthesis
+
+I did some work studying zeolite synthesis during my Ph.D. in collaboration with the Gounder group&mdash;in particular, analyzing the way that [Al is substituted near one another in MFI and which of those pairs are titrated by Co<sup>2+</sup>](https://pubs.acs.org/doi/10.1021/acs.chemmater.0c03154) and [how tetrabutyl ammonium and tetrapropyl ammonium co-occlude with Na<sup>+</sup> during MEL and MFI synthesis](https://pubs.acs.org/doi/10.1021/acs.chemmater.2c01083). However, my work during my Ph.D. used exclusively density functional theory (DFT) to characterize materials and study reaction mechanisms, but these tools can only model relatively small systems, relatively short time-scales, and are generally too slow to rapidly screen the full materials space that heterogeneous catalysts occupy. Therefore, I moved to MIT to work with Rafa G&oacute;mez-Bombarelli to learn more about machine learning (ML) methods as they pertain to zeolite synthesis and other computational chemistry challenges. I have several papers in the works related to ML to understand and control zeolite synthesis better.
+
+# The Next Steps
+
+My work as a PI will continue to use tools that I learned about during my Ph.D. and postdoc and apply them to problems related to catalysis for sustainability. I am particularly interested in applications of ML to address issues of plastics and air pollution.
+
+Please stop by my poster and oral presentations at the Fall 2023 AIChE conference! The details are:
+
+1. Computational Assessment of Catalytic Materials (poster #24). Sunday, November 5, 2023, 1:00 PM ET - 3:00 PM ET in Hyatt Regency Orlando, Regency Ballroom R/S
+
+2. Thermodynamics of Al Substitution in CHA with and without Organic Structure-Directing Agents. Tuesday, November 7, 2023, 8:00 AM ET - 8:18 AM ET in Florida Ballroom C
