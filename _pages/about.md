@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Computational Heterogeneous Catalysis to Save the Planet"
+title: "Alex Hoffman"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
