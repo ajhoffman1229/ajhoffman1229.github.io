@@ -18,8 +18,11 @@ Education
 
 Work experience
 ======
+* August 2015 to August 2016: ORISE Intern
+  * Environmental Protection Agency, Fort Meade, MD
+
 * June 2022 to present: Postdoctoral Research Associate
-  * Massachusetts Institute of Technology
+  * Massachusetts Institute of Technology, Cambridge, MA
   * Supervisor: Prof. Rafael G&oacute;mez-Bombarelli
   
 Publications
