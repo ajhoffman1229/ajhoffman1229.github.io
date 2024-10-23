@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find a full copy of my CV [here](https://ajhoffman1229.github.io/files/CV.pdf) (last updated 2023-11-05).
+You can find a full copy of my CV [here](https://ajhoffman1229.github.io/files/CV.pdf).
 
 Education
 ======
