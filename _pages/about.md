@@ -38,7 +38,9 @@ I did some work studying zeolite synthesis during my Ph.D. in collaboration with
 
 My work as a PI will continue to use tools that I learned about during my Ph.D. and postdoc and apply them to problems related to catalysis for sustainability. I am particularly interested in applications of ML to address issues of plastics and air pollution.
 
-Please stop by my poster and oral presentations at the Fall 2024 AIChE conference! The details are:
+![Summary of my research interests and techniques](../files/summary.png)
+
+Please stop by my poster and oral presentation at the Fall 2024 AIChE conference! The details are:
 
 1. Computational Heterogeneous Catalyst Design from Material Stability to Mechanistic Assessment (poster #23). Sunday, October 27, 2024, 1:00 PM PT - 3:00 PM PT in San Diego Convention Center, Exhibit Hall GH
 
