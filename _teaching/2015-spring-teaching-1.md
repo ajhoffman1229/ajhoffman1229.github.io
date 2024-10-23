@@ -1,5 +1,5 @@
 ---
-title: "Undergraduate Organic Chemistry Lab"
+title: "Undergraduate Organic Chemistry II Lab"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching-1
@@ -8,4 +8,4 @@ date: 2015-01-01
 location: "Williamsburg, VA"
 ---
 
-I led undergraduate students in completing experiments in organic synthesis as a co-teaching assistant with a master's student in the department.
+I led undergraduate students in completing experiments in organic synthesis as a co-teaching assistant with a master's student in the department during the Spring semester. The laboratory courses were overseen by Jeffrey Molloy.
